@@ -1,17 +1,17 @@
 [
   {
     "name": "home",
-    "src": "images/server-wall.jpg",
-    "alt": "woman holding laptop standing by server room with glass wall"
+    "src": "images/heroimage2.jpg",
+    "alt": "Thats me!"
   },
   {
     "name": "about",
-    "src": "images/mosaic.svg",
-    "alt": "purple and blue abstract background"
+    "src": "images/heroimage.jpg",
+    "alt": "Waterfall and me."
   },
   {
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "src": "images/projects.gif",
+    "alt": "All my projects... So far"
   }
 ]

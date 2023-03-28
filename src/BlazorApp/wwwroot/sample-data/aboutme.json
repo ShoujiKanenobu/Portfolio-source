@@ -1,12 +1,10 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "Motivated, Hardworking, Software Engineer and Game Dev. I love to build games and study game design. I thrive in team environments as both a leader and contributor.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "C#",
+    "Unity",
+    "Japanese",
+    "Python"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "Aside from all that, I've recently been learning Shaders(GLSL/HLSL), Software Architecture and how to draw."
 }

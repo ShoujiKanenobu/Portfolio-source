@@ -1,22 +1,22 @@
 [
   {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+    "title": "Maple Taxi",
+    "description": "A language learning game created for a local Japanese School.",
+    "url": "https://github.com/ShoujiKanenobu/ProjectMaple"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "The Fire Burning",
+    "description": "Made for the Ludum Dare Game Jam in 48 hours. Rated top 30% by peers. Theme: \"Keep It Alive\"",
+    "url": "https://ldjam.com/events/ludum-dare/46/the-fire-burning"
   },
   {
-    "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+    "title": "Messy Clicker",
+    "description": "An incremental made in 12 hours as part of a Game Jam held between friends. Theme: \"Non-Competitive\"",
+    "url": "https://shouji.itch.io/messyclicker"
   },
   {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+    "title": "My Resume",
+    "description": "My ongoing project. Click for the most recent copy!",
+    "url": "https://docs.google.com/document/d/1WJK9ATkvHbCu2-Srohl83a13DdiZgX61qY_TO-9W4Us/edit?usp=sharing"
   }
 ]
