@@ -1,17 +1,17 @@
 [
   {
     "title": "Maple Taxi",
-    "description": "A language learning game created for a local Japanese School.",
+    "description": "All code and design done by me in Unity/C#. Art and sounds were 3rd party",
     "url": "https://github.com/ShoujiKanenobu/ProjectMaple"
   },
   {
     "title": "The Fire Burning",
-    "description": "Made for the Ludum Dare Game Jam in 48 hours. Rated top 30% by peers. Theme: \"Keep It Alive\"",
+    "description": "Solo dev'd for Ludum Dare Game Jam in 48 hours. Rated top 30% by peers. Everything from art to code was me!",
     "url": "https://ldjam.com/events/ludum-dare/46/the-fire-burning"
   },
   {
     "title": "Messy Clicker",
-    "description": "An incremental made in 12 hours as part of a Game Jam held between friends. Theme: \"Non-Competitive\"",
+    "description": "Done in Unity/C# using Cellular Automata as the main driving gameplay. Jam Theme: \"Non-Competitive\"",
     "url": "https://shouji.itch.io/messyclicker"
   },
   {
